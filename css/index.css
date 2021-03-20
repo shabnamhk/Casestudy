@@ -1,0 +1,149 @@
+body {
+    position: relative;
+    width: 1920px;
+    height: 5799px;
+    background: #FFFFFF;
+  }
+  
+  #primary_colors_container {  
+    position: absolute;
+    width: 1856px;
+    height: 407px;
+    left: 32px;
+    top: 111px;
+  }
+  
+  #primary {
+    position: absolute;
+    width: 1856px;
+    height: 65px;
+    left: 32px;
+    top: 111px;
+  }
+  
+  #primary h1 {
+    position: absolute;
+    left: 0%;
+    right: 86.05%;
+    top: 0%;
+    bottom: 36.92%;
+  
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+  
+    color: #000000;
+  }
+  
+  #line {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 75.38%;
+    bottom: 0%;
+    background: #DDDDDD;
+  }
+  
+  .swatch {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 0px 0px 7px 7px;
+  }
+  
+  #rectangle1 {
+    background: #750507;
+    
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 32px;
+    top: 218px;
+  }
+  
+  #rectangle2 {
+    background: #BFB18E;
+    
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 264px;
+    top: 218px;
+  }
+  
+  #rectangle3 {
+    background: #DEDDDD;
+    
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 496px;
+    top: 218px;
+  }
+  
+  #rectangle4 {
+    background: #FFFFFF;
+  
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 728px;
+    top: 218px;
+  }
+  
+  #rectangle5 {
+    background: #6C6161;
+    
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 960px;
+    top: 218px;
+  }
+  
+  #rectangle6 {
+    background: #000000;
+    
+    position: absolute;
+    width: 200px;
+    height: 230px;
+    left: 1192px;
+    top: 218px;
+  }
+  
+  #rectangle1 div {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 81.74%;
+    bottom: 0%;
+  
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 0px 0px 7px 7px;
+  }
+  
+  #rectangle1 div p {
+  /*   position: absolute; */
+    position: relative;
+    left: 34%;
+    right: 34.5%;
+  /*   top: 86.96%; */
+    bottom: 5.22%;
+  
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 18px;
+  
+    color: #000000;
+  }
